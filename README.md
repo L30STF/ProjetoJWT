@@ -124,7 +124,6 @@ src
 
 ## 🧠 Boas Práticas
 
-- Commits frequentes com mensagens claras
 - Código limpo e organizado em camadas
 - Validação com `@Validated` e tratamento de erros
 - Uso de `@AuthenticationPrincipal` para capturar usuário logado
